@@ -1,311 +1,267 @@
-# 👋 Hi, I'm Dilip Kumar Gurijala
+<div align="center">
 
-### 🚀 Senior Java Developer | Spring Boot | Microservices | Backend Engineering
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Dilip%20Kumar%20Gurijala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=58&descSize=18" width="100%"/>
 
-> **I build backend systems that are designed to survive real-world production.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=I+build+backend+systems+designed+to+survive+production;Java+%2B+Spring+Boot+%2B+Microservices+%2B+Kafka;3%2B+Years+of+Real-World+Backend+Engineering" alt="Typing SVG" />
 
-I'm a **Java Backend Developer** with **3+ years of production experience**, currently working at **Intellect Informatics Pvt. Ltd.**, Hyderabad.
+<br/>
 
-My primary focus is building **scalable Spring Boot microservices, REST APIs, data-driven backend systems, government platform integrations, and AI inference pipelines**.
+![Profile Views](https://komarev.com/ghpvc/?username=dilipkumargurijala18&color=00C9A7&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilip18)
+[![Medium](https://img.shields.io/badge/Medium-Read_Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dilipkumargurijala18)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilipkumargurijala18@gmail.com)
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/dilipkumargurijala18)
 
-I enjoy working on problems where **backend engineering, infrastructure, performance, and reliability** come together.
+</div>
 
----
+<br/>
 
 ## 🧑‍💻 About Me
 
-* 🔭 Currently building **Spring Boot microservices and enterprise backend systems**
-* ☕ Primary language: **Java**
-* 🌱 Currently exploring **Spring Boot 4, Spring Framework 7, distributed systems & cloud-native architecture**
-* 🤖 Experience integrating **AI inference services using NVIDIA Triton**
-* 🌐 Worked with government platforms including **AgriStack & Bhashini**
-* 🐳 Hands-on with **Docker, Apache Tomcat & Linux**
-* 📨 Experience with **Apache Kafka & event-driven systems**
-* 🛠️ Love automating repetitive development tasks using **Shell scripting**
-* ✍️ I write technical articles about **Java, Spring Boot, Linux & backend engineering**
-* 🚀 Interested in building **reliable, scalable and maintainable backend systems**
+```yaml
+name: Dilip Kumar Gurijala
+role: Senior Java Developer
+company: Intellect Informatics Pvt. Ltd.
+location: Hyderabad, India
+experience: 3+ years in production backend engineering
+focus: Spring Boot microservices • REST APIs • AI inference pipelines • Gov-tech platforms
+currently_learning: Spring Boot 4 • Spring Framework 7 • Distributed Systems
+open_to: Senior Java Developer / Backend Engineer roles • Freelance • Interesting backend problems
+```
 
----
+- 🔭 Currently building **Spring Boot microservices & enterprise backend systems**
+- 🤖 Integrating **AI inference services** with **NVIDIA Triton**
+- 🌐 Working on government platforms — **AgriStack** & **Bhashini**
+- 🐳 Hands-on with **Docker, Apache Tomcat & Linux**
+- 📨 Building **event-driven systems with Apache Kafka**
+- 🛠️ Automating dev workflows with **Shell scripting**
+- ✍️ Writing technical articles on **Java, Spring Boot & Backend Engineering**
+- ⚡ Fun fact: I think a backend isn't done until it's *observable*, not just *working*
+
+<br/>
 
 ## ⚡ Quick Facts
 
-|                             |                                            |
-| --------------------------- | ------------------------------------------ |
-| 💼 Experience               | **3+ Years in Production**                 |
-| 🏢 Current Role             | **Java Developer @ Intellect Informatics** |
-| 📍 Location                 | **Hyderabad, India**                       |
-| ☕ Primary Stack             | **Java + Spring Boot**                     |
-| 🏗️ Architecture            | **Microservices / REST APIs**              |
-| 🤖 AI Infrastructure        | **NVIDIA Triton + Docker**                 |
-| 🏛️ Government Integrations | **AgriStack + Bhashini**                   |
-| 📨 Messaging                | **Apache Kafka**                           |
-| 🗄️ Databases               | **MySQL + MS SQL Server**                  |
-| 🐧 OS                       | **Linux**                                  |
-| 📚 Writing                  | **Technical Blogs on Medium**              |
+<div align="center">
 
----
+| 💼 Experience | 🏢 Current Role | 📍 Location | ☕ Primary Stack |
+|:---:|:---:|:---:|:---:|
+| **3+ Years** | **Java Developer @ Intellect Informatics** | **Hyderabad, India** | **Java + Spring Boot** |
 
-# 🛠️ Tech Stack
+| 🏗️ Architecture | 🤖 AI Infra | 🏛️ Gov Integrations | 📨 Messaging | 🗄️ Databases |
+|:---:|:---:|:---:|:---:|:---:|
+| Microservices / REST | NVIDIA Triton + Docker | AgriStack + Bhashini | Apache Kafka | MySQL + MS SQL Server |
 
-### ☕ Backend
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+<br/>
 
-### 🏗️ Architecture & APIs
+## 🛠️ Tech Stack
 
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-APIs-orange?style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+<div align="center">
+
+### ☕ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+
+### 🏗️ Architecture, APIs & Messaging
+![Microservices](https://img.shields.io/badge/Microservices-1E90FF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kafka" />
 
 ### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mssql" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-
-### 🐳 DevOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge\&logo=apachetomcat\&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+### 🐳 DevOps, Infra & Tools
+<img src="https://skillicons.dev/icons?i=docker,linux,git,bash,github,vscode" />
 
 ### 🤖 AI / ML Infrastructure
-
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
-![Triton](https://img.shields.io/badge/Triton%20Inference%20Server-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Triton Inference Server](https://img.shields.io/badge/Triton%20Inference%20Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### 🧪 Testing
-
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge\&logo=junit5\&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🖥️ Frontend
+<img src="https://skillicons.dev/icons?i=angular,html,css" />
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+</div>
 
----
+<br/>
 
-# 💼 Professional Experience
+## 💼 Professional Experience
 
-## Java Developer — Intellect Informatics Pvt. Ltd.
+<table>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://img.shields.io/badge/2023--Present-00C9A7?style=for-the-badge" /><br/><br/>
+☕
+</td>
+<td>
 
-📍 Hyderabad, India
-📅 **August 2023 — Present**
+### **Java Developer** — Intellect Informatics Pvt. Ltd.
+📍 Hyderabad, India &nbsp;|&nbsp; 📅 **August 2023 — Present**
 
-Working on production-grade backend systems using **Java, Spring Boot, microservices and relational databases**.
+Working on production-grade backend systems using **Java, Spring Boot, microservices and relational databases.**
 
-### What I work on
+**What I work on:**
 
-* 🏗️ Design and development of **Spring Boot microservices**
-* 🔌 Development of **RESTful APIs**
-* 🗄️ Database persistence using **Hibernate / JPA**
-* 🏛️ Integration with **government platforms**
-* 🤖 AI inference integration using **NVIDIA Triton**
-* 📨 Event-driven communication using **Apache Kafka**
-* 🐳 Containerized deployments using **Docker**
-* 🚀 WAR deployments on **Apache Tomcat**
-* 🐧 Linux server administration and troubleshooting
-* 🔐 API security and service-to-service authentication
-* 📊 Structured logging, monitoring and exception handling
-* 🧪 Unit testing using **JUnit & Mockito**
-* 🔍 Code reviews and production debugging
-* 🤝 Agile/Scrum collaboration with frontend, QA and DevOps teams
-* ⚙️ Shell scripting and development automation
+| | | |
+|---|---|---|
+| 🏗️ Spring Boot microservices | 🔌 RESTful APIs | 🗄️ Hibernate / JPA persistence |
+| 🏛️ Government platform integrations | 🤖 AI inference (NVIDIA Triton) | 📨 Event-driven systems (Kafka) |
+| 🐳 Containerized deployments | 🚀 WAR deployments on Tomcat | 🐧 Linux administration |
+| 🔐 API security & service auth | 📊 Logging & monitoring | 🧪 Unit testing (JUnit/Mockito) |
+| 🔍 Code reviews & debugging | 🤝 Agile/Scrum collaboration | ⚙️ Shell scripting automation |
 
----
+</td>
+</tr>
+</table>
 
-# 🚀 Featured Projects
+<br/>
 
-## 🤖 Multilingual Translation Platform
+## 🚀 Featured Projects
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Multilingual Translation Platform
 **OneMTBig / Bhashini · NVIDIA Triton · Docker · Spring Boot**
 
-Integrated the **OneMTBig multilingual translation model** under the Bhashini ecosystem and served model inference through **NVIDIA Triton Inference Server**.
+Integrated the OneMTBig multilingual translation model under the Bhashini ecosystem, serving inference through NVIDIA Triton Inference Server, with a Spring Boot backend enabling real-time translation between English and Indian languages.
 
-The Spring Boot backend communicates with the inference infrastructure to provide real-time translation between English and Indian languages.
-
-### Highlights
-
-* NVIDIA Triton inference integration
-* Docker-based deployment
-* Spring Boot backend integration
-* Multilingual translation
-* Production-oriented inference infrastructure
+`#NVIDIA-Triton` `#Docker` `#SpringBoot` `#Multilingual`
 
 **Outcome:** Real-time English ⇄ Indian-language translation.
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🌾 AgriStack Farmer Data Integration
-
+### 🌾 AgriStack Farmer Data Integration
 **Spring Boot · REST APIs · Government Platform**
 
-Developed backend integrations with the **AgriStack ecosystem** to retrieve and exchange farmer, land and crop information.
+Built backend integrations with the AgriStack ecosystem to securely retrieve and exchange farmer, land, and crop information across internal systems.
 
-### Highlights
+`#REST-APIs` `#GovTech` `#DataIntegration` `#Validation`
 
-* Secure REST API integration
-* Farmer data retrieval
-* Land and crop information
-* Backend service integration
-* Request/response validation
-* Exception handling and logging
+**Outcome:** Farmer, land & crop data accessible across connected systems.
 
-**Outcome:** Farmer, land and crop data became accessible across connected internal systems.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
-
-## 🏦 e-PACS Mobile Application Backend
-
+### 🏦 e-PACS Mobile Application Backend
 **Spring Boot · MS SQL Server · REST APIs**
 
-Worked on backend services supporting a **cooperative banking mobile application**.
+Backend services powering a cooperative banking mobile application — covering API development, database integration, and core business logic.
 
-### Highlights
+`#SpringBoot` `#MSSQL` `#Banking` `#MobileBackend`
 
-* Backend API development
-* Database integration
-* Business logic implementation
-* Data management
-* API integration
+**Outcome:** Reliable backend & data services for a live banking app.
 
-**Outcome:** Reliable backend and data services for a live cooperative banking application.
+</td>
+<td width="50%" valign="top">
 
----
-
-## 🏢 Enterprise ERP Backend
-
+### 🏢 Enterprise ERP Backend
 **Spring Boot · MySQL · Microservices**
 
-Contributed to backend development for an enterprise-grade ERP platform.
+Contributed to a multi-module ERP platform composed of independently deployable backend services across different business domains.
 
-The platform consists of multiple independently deployable backend modules covering different business domains.
+`#Microservices` `#MySQL` `#Kafka` `#Hibernate`
 
-### Highlights
+**Outcome:** Continuous delivery across multiple backend modules.
 
-* Spring Boot microservices
-* REST APIs
-* MySQL
-* Hibernate / JPA
-* Kafka
-* Exception handling
-* Logging & monitoring
-* Production deployments
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Outcome:** Continuous delivery of production features across multiple backend modules.
-
----
-
-## ⚙️ CRUD Automation Tool
-
+### ⚙️ CRUD Automation Tool
 **Shell Scripting · Spring Boot · Linux**
 
-Built a Shell-based automation tool that generates repetitive CRUD boilerplate for Spring Boot applications.
+A Shell-based automation tool that scaffolds the repetitive `Entity → Repository → Service → ServiceImpl → Controller` structure for Spring Boot apps.
 
-Instead of manually creating the same:
+`#ShellScripting` `#DevTools` `#Automation`
 
-`Entity → Repository → Service → ServiceImpl → Controller`
+**Outcome:** Reduced repetitive dev effort, faster feature delivery.
 
-structure repeatedly, the script automates the scaffolding process.
+</td>
+<td width="50%" valign="top">
 
-**Outcome:** Reduced repetitive development effort and accelerated backend development.
-
----
-
-## 🔐 Secure API Gateway
-
+### 🔐 Secure API Gateway
 **Spring Boot · API Security · Microservices**
 
-Built a lightweight Spring Boot gateway service to provide controlled access between internal services using authentication-based API access.
+A lightweight gateway service providing controlled, authenticated access between internal microservices.
 
-### Focus Areas
+`#APIGateway` `#Security` `#Microservices`
 
-* Service-to-service communication
-* API authentication
-* Request validation
-* Controlled internal access
-* Centralized gateway behavior
+**Focus:** Auth, request validation, centralized access control.
 
----
+</td>
+</tr>
+</table>
 
-# 🧠 What I Care About
+<br/>
 
-```text
-Clean Code
-    ↓
-Reliable APIs
-    ↓
-Well-designed Services
-    ↓
-Efficient Data Access
-    ↓
-Observability
-    ↓
-Reliable Production Systems
+## 🧠 What I Care About
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Clean Code] --> B[Reliable APIs]
+    B --> C[Well-Designed Services]
+    C --> D[Efficient Data Access]
+    D --> E[Observability]
+    E --> F[Reliable Production Systems]
+
+    style A fill:#00C9A7,stroke:#0F2027,color:#fff
+    style B fill:#00B4A0,stroke:#0F2027,color:#fff
+    style C fill:#009F98,stroke:#0F2027,color:#fff
+    style D fill:#008A91,stroke:#0F2027,color:#fff
+    style E fill:#00758A,stroke:#0F2027,color:#fff
+    style F fill:#0F2027,stroke:#00C9A7,color:#fff
 ```
 
-I believe backend development is not just about making an API return `200 OK`.
+**A production backend should be:**
+`Scalable` · `Maintainable` · `Observable` · `Secure` · `Testable` · `Reliable`
 
-A production backend should be:
+</div>
 
-**Scalable · Maintainable · Observable · Secure · Testable · Reliable**
+<br/>
 
----
+## 📚 Technical Writing
 
-# 📚 Technical Writing
+I write about things I learn while working on real backend systems.
 
-I write technical articles based on things I learn and experience while working with backend systems.
+<div align="center">
 
-### Topics I write about
+`Java` `Spring Boot` `Design Patterns` `REST APIs` `Apache Kafka` `Linux` `Shell Scripting` `Docker` `Microservices` `Backend Engineering`
 
-* ☕ Java
-* 🌱 Spring Boot
-* 🏗️ Design Patterns
-* 🔌 REST APIs
-* 📨 Apache Kafka
-* 🐧 Linux
-* 🐚 Shell Scripting
-* 🐳 Docker
-* 🏛️ Microservices
-* ⚡ Backend Engineering
+[![Medium](https://img.shields.io/badge/Read_my_articles_on-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dilipkumargurijala18)
 
-📝 **Read my articles:**
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@dilipkumargurijala18)
+</div>
 
----
+<br/>
 
-# 🌐 Find Me Online
+## 📊 GitHub Analytics
 
-[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge\&logo=gitlab\&logoColor=white)](https://gitlab.com/dilipkumargurijala18)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@dilipkumargurijala18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dilip18)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=dilipkumargurijala18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipkumargurijala18&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-# 📊 GitHub Stats
+<img src="https://streak-stats.demolab.com?user=dilipkumargurijala18&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilipkumargurijala18&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipkumargurijala18&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilipkumargurijala18&theme=tokyo-night&hide_border=true" width="100%"/>
 
----
+</div>
 
-# 🔥 Contribution Streak
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dilipkumargurijala18&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🎯 Currently
+## 🎯 Currently
 
 ```text
 Building       → Production-grade Java Backend Systems
@@ -316,24 +272,29 @@ Interested In  → Backend Architecture & System Design
 Writing About  → Java + Spring Boot + Linux
 ```
 
----
+<br/>
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-I'm currently **open to Senior Java Developer / Backend Engineer opportunities, freelance work, and interesting backend projects**.
+I'm currently **open to Senior Java Developer / Backend Engineer opportunities, freelance work, and interesting backend projects.**
 
-If you're working on something involving **Java, Spring Boot, Microservices, APIs, Kafka, AI infrastructure, or backend architecture**, feel free to reach out.
+If you're working with **Java, Spring Boot, Microservices, APIs, Kafka, AI infrastructure, or backend architecture** — let's talk.
 
-📧 **Email:** [dilipkumargurijala18@gmail.com](mailto:dilipkumargurijala18@gmail.com)
-📱 **Phone:** +91 7569639930
-📍 **Location:** Hyderabad, India
+<div align="center">
 
----
+[![Gmail](https://img.shields.io/badge/dilipkumargurijala18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilipkumargurijala18@gmail.com)
+[![Phone](https://img.shields.io/badge/%2B91%207569639930-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917569639930)
+[![Location](https://img.shields.io/badge/Hyderabad%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
-<p align="center">
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
+
+<div align="center">
 
 ### 💻 Build systems. Solve problems. Keep learning.
-
 **Thanks for visiting my profile! ⭐**
 
-</p>
+</div>
